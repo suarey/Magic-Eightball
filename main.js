@@ -17,8 +17,9 @@ function submitMe(e) {
     document.querySelector(".answer").innerText = randomArr;
  
 }
-document.getElementsByClassName("reset.btn").reset( function() {
-    
-}); 
-
+//
+//document.getElementsByClassName(".resetbtn").reset();
+  //      document.querySelector(".container").innerText = resetbtn;
+ 
+//
 
